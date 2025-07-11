@@ -3,7 +3,7 @@
 
 #to-do's: 
 - Text unterhalb der Teilprüfugn anpassen (Worum ging es im groben)
-  
+
 
 
 # Teilprüfung 3 – XXXXXXXXXXXXX
