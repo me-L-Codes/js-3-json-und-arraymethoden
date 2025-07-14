@@ -1,7 +1,3 @@
-# JS_3
-
-
-
 # Teilprüfung 3 – Arbeit mit JSON und Array-Methoden
 
 Dies ist eine Prüfungsaufgabe aus meiner Weiterbildung zur Webentwicklerin.  
