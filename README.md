@@ -1,15 +1,11 @@
 # JS_3
 
 
-#to-do's: 
-- Text unterhalb der Teilprüfugn anpassen (Worum ging es im groben)
 
-
-
-# Teilprüfung 3 – XXXXXXXXXXXXX
+# Teilprüfung 3 – Arbeit mit JSON und Array-Methoden
 
 Dies ist eine Prüfungsaufgabe aus meiner Weiterbildung zur Webentwicklerin.  
-Ziel war es, XXXXXXXXXXXXXXXXXXXXXXXXXXX
+Ziel war es, Ziel war es, grundlegende Fähigkeiten im Umgang mit JSON-Daten, Arrays und integrierten JavaScript-Methoden praktisch anzuwenden
 
 
 
